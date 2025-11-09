@@ -1,1 +1,1 @@
-# calculater
+# digital calculater
